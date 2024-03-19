@@ -1,0 +1,29 @@
+{
+    "id": "E984C406",
+    "path": "~/GitHub/tarea1/trabajo1.qmd",
+    "project_path": "trabajo1.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1710877080960.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "55:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1710876872,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1710876872,
+    "read_only": false,
+    "read_only_alternatives": []
+}
